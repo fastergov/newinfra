@@ -1,0 +1,3 @@
+git add *
+git commit -m "comentário das alterações"
+git push origin master
